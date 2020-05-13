@@ -1,0 +1,14 @@
+
+      #map {
+        width: 100%;
+		height: 400px;
+      }
+
+      a:not([href]):not([tabindex]) {
+  color: white;
+  text-decoration: none;
+
+  @include hover-focus {
+    color: white;
+    text-decoration: none;
+  }

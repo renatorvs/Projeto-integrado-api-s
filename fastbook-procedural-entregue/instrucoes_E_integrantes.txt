@@ -1,0 +1,13 @@
+
+
+Renato Vieira Santos RA:118221	 
+Carlos Eduardo Santiago 119140
+Felipe domingos da Silva  154561
+Matheus Menoncello - 118470
+
+
+
+Prof a api do facebook esta apontada para essa caminho de diretorio se tiver usando wamp ou xampp, favor aponta dessa forma.
+ Diretorio = facebook.php -  $url_login = 'http://localhost/Projeto-integrado_api/fastbook/login.php';
+
+O facebook não me retorno o email do usuario então não achei viavel criar a tabela usuario, mas esta no codigo para futura imprementações. E armazenei o id e foto do usuario, pois o facebook  não esta me retornando o email. acredito que seja por não easta na produção.
